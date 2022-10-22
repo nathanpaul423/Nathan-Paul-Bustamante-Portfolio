@@ -1,5 +1,3 @@
-# Nathan Paul Bustamante's Portfolio
-
 
 
 ## **Data Science Projects**
@@ -14,7 +12,10 @@
 
 
 ## **Data Visualization**
-### [Project 1: Dashboard of Used Car Price](https://datastudio.google.com/reporting/0cb0e99e-9d99-438e-b9f2-03be31c4c9c5)
+### [Project 1: Dashboard-Used Car Price](https://datastudio.google.com/reporting/0cb0e99e-9d99-438e-b9f2-03be31c4c9c5)
 - Used Google Data Studio as the Dashboard tool
 ![](https://github.com/nathanpaul423/Nathan-Paul-Portfolio/blob/main/images/Dashboard.JPG)
 
+### [Project 2: Dashboard-Car Sales](https://datastudio.google.com/reporting/a43334be-5c1b-475f-889a-7391a34ad7c7)
+- Used Google Data Studio as the Dashboard tool
+![](https://github.com/nathanpaul423/Nathan-Paul-Bustamante-Portfolio/blob/main/images/Dashboard2.JPG)

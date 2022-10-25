@@ -11,7 +11,7 @@
 - Compile data from multiple excel spreadsheets using VBA and python scripting.
 
 ### [Project 3: Pararius-Apparment rental Web Scrapping](https://github.com/nathanpaul423/NathanPaul-DataScience-Project/blob/main/ParariusWebScrape.ipynb)
-- Extract Appartment Postings 
+- Extract Appartment Rental Postings 
 - create dataset from extracted posting
 
 
